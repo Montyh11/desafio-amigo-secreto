@@ -134,10 +134,16 @@ ul {
     margin: 20px 0;
 }
 
+.name-list {
+    color: #3012a8;
+    font-size: 35px;
+    font-weight: bold;
+}
+
 .result-list {
     margin-top: 15px;
     color: #05DF05;
-    font-size: 22px;
+    font-size: 40px;
     font-weight: bold;
     text-align: center;
 }
